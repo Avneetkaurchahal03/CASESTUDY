@@ -1,0 +1,5 @@
+package com.avneet.review.model;
+
+public class ReviewAndRatings {
+
+}

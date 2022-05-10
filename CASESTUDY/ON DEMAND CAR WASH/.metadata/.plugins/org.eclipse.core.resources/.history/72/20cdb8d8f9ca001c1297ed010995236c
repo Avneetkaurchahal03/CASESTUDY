@@ -1,0 +1,5 @@
+package com.avneet.payment.service;
+
+public class PaypalService {
+
+}

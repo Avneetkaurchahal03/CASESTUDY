@@ -1,0 +1,5 @@
+package com.avneet.addresses.exception;
+
+public class ApiExceptionHandler {
+
+}

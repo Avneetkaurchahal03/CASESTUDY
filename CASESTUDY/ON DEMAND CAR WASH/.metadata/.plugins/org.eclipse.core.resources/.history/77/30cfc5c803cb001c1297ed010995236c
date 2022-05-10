@@ -1,0 +1,5 @@
+package com.avneet.washer.model;
+
+public class Washer {
+
+}

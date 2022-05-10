@@ -1,0 +1,5 @@
+package com.avneet.customer.service;
+
+public interface CustomerServiceImp {
+
+}

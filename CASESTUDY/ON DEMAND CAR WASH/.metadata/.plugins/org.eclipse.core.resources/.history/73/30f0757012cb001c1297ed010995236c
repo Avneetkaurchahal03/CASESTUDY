@@ -1,0 +1,5 @@
+package com.avneet.admin.controller;
+
+public class AdminWasherController {
+
+}

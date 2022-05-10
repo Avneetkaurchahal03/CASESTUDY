@@ -1,0 +1,5 @@
+package com.avneet.admin.repository;
+
+public interface AdminRepository {
+
+}

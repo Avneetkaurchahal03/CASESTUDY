@@ -1,0 +1,5 @@
+package com.avneet.washer.controller;
+
+public class WasherOrderController {
+
+}

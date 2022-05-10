@@ -1,0 +1,5 @@
+package com.avneet.order.repository;
+
+public interface OrderRepository {
+
+}

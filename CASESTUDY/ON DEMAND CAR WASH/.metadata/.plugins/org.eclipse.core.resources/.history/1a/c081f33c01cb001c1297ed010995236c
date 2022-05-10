@@ -1,0 +1,5 @@
+package com.avneet.review.controller;
+
+public class ReviewAndRatingsController {
+
+}

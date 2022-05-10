@@ -1,0 +1,5 @@
+package com.avneet.payment.configuration;
+
+public class PaypalConfig {
+
+}

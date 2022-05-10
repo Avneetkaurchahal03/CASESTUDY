@@ -1,0 +1,5 @@
+package com.avneet.washer.repository;
+
+public interface WasherRepository {
+
+}

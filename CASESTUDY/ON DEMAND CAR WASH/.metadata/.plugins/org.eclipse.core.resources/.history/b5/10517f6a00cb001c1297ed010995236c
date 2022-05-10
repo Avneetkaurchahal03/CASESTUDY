@@ -1,0 +1,5 @@
+package com.avneet.review.exception;
+
+public class ApiException {
+
+}

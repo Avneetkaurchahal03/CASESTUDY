@@ -1,0 +1,10 @@
+server.port=8082
+#spring.data.mongodb.uri=mongodb://Avneet_chahal:Avneet23!@cluster0.pxqvj.mongodb.net/carwashsystem?retryWrites=true&w=majority
+spring.application.name=order-service
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=carwashsystem
+
+
+logging.level.root=trace
+

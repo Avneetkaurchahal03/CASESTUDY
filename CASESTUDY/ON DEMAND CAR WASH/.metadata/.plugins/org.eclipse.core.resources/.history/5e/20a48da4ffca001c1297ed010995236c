@@ -1,0 +1,5 @@
+package com.avneet.review.repository;
+
+public interface ReviewAndRatingsRepository {
+
+}

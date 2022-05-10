@@ -1,0 +1,26 @@
+package com.avneet.addresses.service;
+
+import java.util.List;
+
+import com.avneet.addresses.model.Address;
+import com.avneet.addresses.repository.AddressRepository;
+
+public class AddressServiceImp implements AddressService{
+
+	private AddressRepository addressRepository;
+	
+	@Override
+	public Address addAddress(Address address) {
+		// TODO Auto-generated method stub
+		return addressRepository.save(address);
+	}
+
+	@Override
+	public List<Address> getAddresses() {
+		// TODO Auto-generated method stub
+		List<Address> address= addressRepository.findAll();
+		System.out.println("Getting Address from DB" + address);
+		return address;
+	}
+
+}

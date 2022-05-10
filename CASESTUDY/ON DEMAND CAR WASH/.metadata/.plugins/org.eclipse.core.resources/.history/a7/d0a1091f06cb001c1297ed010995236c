@@ -1,0 +1,11 @@
+package com.avneet.washer.repository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.avneet.washer.model.Washer;
+
+public interface WasherRepository extends MongoRepository<Washer, String> {
+	
+	Washer findBywEmail(String wEmail);
+
+}

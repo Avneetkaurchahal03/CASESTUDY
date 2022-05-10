@@ -1,0 +1,5 @@
+package com.avneet.addresses.model;
+
+public class Address {
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="AdminService"/>
+<aop-project name="Userservices"/>
+<aop-project name="Customer"/>
+<aop-project name="APIGATEWAY"/>
+<aop-project name="Address"/>
+<aop-project name="DiscoveryServer"/>
+<aop-project name="WasherService"/>
+<aop-project name="Washer"/>
+<aop-project name="Order"/>
+<aop-project name="API-GateWay"/>
+<aop-project name="PaymentService"/>
+<aop-project name="OrderService"/>
+<aop-project name="ReviewAndRatings"/>
+<aop-project name="AdminService1"/>
+</aop-reference-model>

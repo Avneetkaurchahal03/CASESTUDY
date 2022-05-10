@@ -1,0 +1,5 @@
+package com.avneet.review.service;
+
+public class ReviewAndRatingsService {
+
+}

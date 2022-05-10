@@ -1,0 +1,5 @@
+package com.avneet.washer.service;
+
+public class WasherService {
+
+}

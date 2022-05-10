@@ -1,0 +1,8 @@
+server.port=8081
+#spring.data.mongodb.uri=mongodb://Avneet_chahal:Avneet23!@cluster0.pxqvj.mongodb.net/carwashsystem?retryWrites=true&w=majority
+spring.application.name=AdminMicroservice
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=carwashsystem
+spring.security.user.name = user1
+spring.security.user.password = password2

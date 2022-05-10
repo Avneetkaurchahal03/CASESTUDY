@@ -1,0 +1,5 @@
+package com.avneet.order.model;
+
+public class Address {
+
+}
